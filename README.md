@@ -28,4 +28,4 @@ Soy estudiante de desarrollador/a web y me encanta crear proyectos que mezclen c
 
 ## 📫 Contacto
 Si quieres hablar sobre proyectos, aprender juntos o simplemente saludar, aquí me puedes encontrar:    
-- LinkedIn: https://www.linkedin.com/in/victoria-segovia-746b15104/
+- LinkedIn: (enlace)[https://www.linkedin.com/in/victoria-segovia-746b15104/]
